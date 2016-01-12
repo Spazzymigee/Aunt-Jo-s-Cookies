@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel='shortcut icon' href='favicon.ico' type='image/x-icon'/ >
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/Lifestyle.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+body {
+	background-color: #333;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+  <div class="header"></div>
+  
+  <div class="navigation">
+  <p><a href="../index.html">Home</a></p>
+  <p><a href="../products.html">Products</a></p>
+  <p><a href="../gallery.html">Gallery</a></p>
+  <p><a href="../contact.html">Contact Us</a></p>
+  <p><a href="../aboutus.html">About Us</a></p>
+  </div>
+  <div class="content"><!-- TemplateBeginEditable name="EditRegion1" -->Sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text <!-- TemplateEndEditable --></div>
+  
+  <div class="footer">Web Site Design by:<br>
+    Jared Krebs and Alex Koehn</div>
+    
+</div>
+</body>
+</html>

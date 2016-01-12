@@ -1,4 +1,0 @@
-index
-products/gallery
-contact
-about us

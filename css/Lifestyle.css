@@ -1,0 +1,113 @@
+.container {
+	//width: 75%;
+	margin-right: auto;
+	margin-left: auto;
+	height: inherit;
+}
+.header {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 20pt;
+	font-weight: bold;
+	color: #fff;
+	background-color: #41B8F1;
+	height: 100px;
+	width: 100%;
+	margin-bottom: 10px;
+}
+.navigation {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14pt;
+	color: #FFF;
+	background-color: #41B8F1;
+	float: left;
+	height: 400px;
+	width: 150px;
+	padding-right: 10px;
+	padding-left: 10px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-color: #003;
+	border-right-color: #003;
+	border-bottom-color: #003;
+	border-left-color: #003;
+}
+.content {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	padding: 5px;
+	float: left;
+	height: inherit;
+	width: 75%;
+	margin-left: 10px;
+	background-color: #FFF;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #999;
+	border-right-color: #999;
+	border-bottom-color: #999;
+	border-left-color: #999;
+	text-align: left;
+}.footer {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 10pt;
+	float: left;
+	width: 100%;
+	text-align: center;
+	margin-top: 50px;
+	color: #FFF;
+}
+.img-left {
+	border-top-color: #999;
+	border-right-color: #999;
+	border-bottom-color: #999;
+	border-left-color: #999;
+	float: left;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+.text-header {
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+}
+
+.banner-border {
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFF;
+	border-right-color: #FFF;
+	border-bottom-color: #FFF;
+	border-left-color: #FFF;
+}
+
+a:link {
+	text-decoration: none;
+	color: #FFF;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #FFF;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #CCC;
+}
+a:active {
+	text-decoration: none;
+	color: #FFF;
+}
+body {
+	background-image: url(../images/red-black-md.jpg);
+	background-repeat: no-repeat;
+}
+.center-stuff {
+	text-align: center;
+}
